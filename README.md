@@ -4,10 +4,11 @@
 a website for social marketing company that has accessibility.
 
 ## Built with 
-*HTML
-*CSS
+* HTML
+* CSS
 
-
+## Screen Shot
+![Horiseon Website](assets/images/Horiseon-Website)
 ## Websites
 https://github.com/pab12/Horiseon-Refactor
 
