@@ -8,7 +8,7 @@ a website for social marketing company that has accessibility.
 * CSS
 
 ## Screen Shot
-![Horiseon Website](assets/images/Horiseon-Website)
+![Horiseon Website](assets/images/Horiseon-Website.png)
 ## Websites
 https://github.com/pab12/Horiseon-Refactor
 
